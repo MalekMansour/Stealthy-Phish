@@ -1,5 +1,5 @@
 # Screenshot
-![Screenshot](image.png)
+![Screenshot](screenshot.png)
 # Stealthy Phish
 Stealthy Phish is a Bash script designed to generate modified phishing URLs with masked domains and social engineering words. It provides a simple way to create more convincing phishing attacks by disguising the URLs and incorporating social engineering tactics.
 # Installation
