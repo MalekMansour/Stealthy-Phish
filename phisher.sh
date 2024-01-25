@@ -35,7 +35,7 @@ echo -e "\e[34m                                 /XXXXXX\\"
 echo -e "\e[34m                               /XXXXXXXXXX\\"
 echo -e "\e[34m                             /XXXXXX/^\\XXXXX\\"
 echo -e "\e[34m                            ~~~~~~~~   ~~~~~~~\e[0m"
-echo -e Stealthy Phish v.1.0.1 - Author : Malek Mansour - URL Masker
+echo -e Stealthy Phish v.1.0.2 - Author : Malek Mansour - URL Masker
 
 echo -e "\e[37;44m Phishing the URL \e[0m \n"
 echo -n "Paste Phishing URL here (with http or https): "
