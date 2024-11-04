@@ -4,7 +4,7 @@
 Stealthy Phish is a Bash script designed to generate modified phishing URLs with masked domains and social engineering words. It provides a simple way to create more convincing phishing attacks by disguising the URLs and incorporating social engineering tactics.
 # Installation
 ```
-git clone https://github.com/MalekMansour/Stealthy-Phish.git
+git clone https://github.com/MalekMansour/Stealthy-Phish
 cd Stealthy-Phish
 bash phisher.sh
 ```
